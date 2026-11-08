@@ -1,0 +1,11 @@
+{
+  "project": "nightscout/cgm-remote-monitor",
+  "release": "v15.0.8",
+  "release_title": "Chocolate Chip Muffin",
+  "commit": "92d0834219aa771b5837dbcbf1baeb839a200cf6",
+  "source_archive": "https://github.com/nightscout/cgm-remote-monitor/archive/refs/tags/v15.0.8.tar.gz",
+  "source_archive_sha256": "39820ebf46ba2ed1f862f05a4b813ae67a3d9c10a49d39405be7d6ffb5aba3a6",
+  "vendored_at": "2026-09-07",
+  "vendor_path": "vendor/nightscout",
+  "policy": "Vendor starts from the locked release snapshot; explicit local changes are recorded in upstream/patches. Other NSCF platform work lives outside vendor."
+}
